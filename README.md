@@ -1,1 +1,2 @@
-# Assignment_M2
+# Assignment_M2_Manual Testing 
+This is a Assignment will cover all the manual testing concepts like Test Planning, Test Scenario, Test Case, RTM, STLC, Leval of Software Testing, Functional as well as non-functional testing , re-testing, testing, Re-testing, regression testing, static and Dynamic Testing. The practical will be covered with the Test Scenario and test cases on various objects and functionalities of app.
